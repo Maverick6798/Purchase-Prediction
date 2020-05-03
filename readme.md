@@ -26,8 +26,8 @@ All the files later on are uploaded on github.
 
    1. Download the docker 
    2. Use these command on terminal -
-   			***docker pull maverick6798/logistic***
-  		    ***docker run -dit maverick6798/logistic***
+   		    1. ***docker pull maverick6798/logistic***
+  		    2. ***docker run -dit maverick6798/logistic***
    3. Go to your browser and use URL ***0.0.0.0:5000***.
    4. Enter the age and estimated salary of that person. 
 
